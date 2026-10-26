@@ -1,0 +1,12 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.env
+
+# Local Vector Stores & Data
+chroma/
+faiss_index/
+documents/
+*.db
